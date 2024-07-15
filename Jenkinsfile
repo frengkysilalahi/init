@@ -1,4 +1,4 @@
 @Library('jenkins-shared-library@master') _
-globalDeployment(
+init(
     project_name: "init-service"
 )
