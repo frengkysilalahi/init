@@ -1,4 +1,4 @@
 @Library('jenkins-shared-library') _
-init(
-    project_name: "init-service"
-)
+
+log.info 'Starting'
+log.warning 'Nothing to do!'
